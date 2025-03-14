@@ -1,7 +1,7 @@
 {
-  "name": "@erelajs/lavalink",
+  "name": "supermusicjs",
   "version": "0.0.1",
-  "description": "Lavalink provider for the Discord audio client Erela.JS. ",
+  "description": "Lavalink provider for the Discord audio client supermusic.js. ",
   "main": "dist/index.js",
   "types": "typings/index.d.ts",
   "files": [
